@@ -1,0 +1,20 @@
+# Ignore a specific folder
+correlation_assignment/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+.DS_Store
+
+# Ignore environment files
+.env
+venv/
+node_modules/
